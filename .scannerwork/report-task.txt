@@ -1,0 +1,6 @@
+projectKey=ProgramaDVD
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=ProgramaDVD
+ceTaskId=ff4bc65d-87ab-4e03-a35f-8b580787a480
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ff4bc65d-87ab-4e03-a35f-8b580787a480
