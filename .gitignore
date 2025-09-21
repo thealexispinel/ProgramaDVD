@@ -1,0 +1,9 @@
+#Generado por Sonar
+.scannerwork/
+
+#Ignorar configuraciones locales de VSCode
+.vscode/
+
+#Ignorar archivos compilados de Java
+bin/
+*.class
